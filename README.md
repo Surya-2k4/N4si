@@ -5,21 +5,25 @@
 <p align="center">
  
 ![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
-
 </p>
 
 -----
 
 ![profile count](https://komarev.com/ghpvc/?username=Surya-2k4&color=red)&nbsp;
 [![GitHub Surya-2k4](https://img.shields.io/github/followers/Surya-2k4?label=follow&style=social)](https://github.com/Surya-2k4)&nbsp;
-### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Hello everyone,I'm 2022 pass out graduate with BTech CSE. I enjoy collaborating with people on works of similar interest.
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="35px">  &nbsp;  <b>About Me</b>
+--
+💡   Hello everyone, I'm pursuing an MCA with a strong passion for technology and collaboration.
 
-🌱 &nbsp;I'm on track to help tech minds by sharing my expertise , resources and guidance.\
-✍️ &nbsp;Apart from technical interests, I like dancing,watching movies, reading novels, playing Chess and badminton.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions \
-✉️ &nbsp;You can email me at suryanatarajan04@gmail.com. I'll try to respond as soon as possible!\
+🌱  I'm focused on expanding my technical skills and staying updated with industry trends.
+
+🚀  I'm passionate about problem-solving, data structures, and cross-platform app development with Flutter. Cybersecurity also excites me, 
+    &nbsp;and I'm eager to apply and expand my expertise in these areas.
+
+💬  Let's connect for discussions, projects, or networking.
+
+✉️  You can reach me at suryanatarajan04@gmail.com. I'll reply promptly.
 
 -----
 ### 📫 &nbsp; How to reach me:
