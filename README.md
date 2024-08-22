@@ -32,8 +32,10 @@
 
 <a href="https://www.linkedin.com/in/surya-2k4//"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:suryanatarajan04@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://www.hackerrank.com/suryanatarajan04/"><img src="https://img.shields.io/badge/-HackerRank-E4405F?style=flat&logo=HackerRank&logoColor=white"/></a> &nbsp;
-<a href="https://leetcode.com/u/xjFcRW7cwc/"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp;
+<a href="https://www.hackerrank.com/suryanatarajan04/"><img src="https://img.shields.io/badge/-HackerRank-0D7C66?style=flat&logo=HackerRank&logoColor=white"/></a> &nbsp;
+<a href="https://leetcode.com/u/xjFcRW7cwc/"><img src="https://img.shields.io/badge/-LeetCode-FFDA76?style=flat&logo=LeetCode&logoColor=black"/></a> &nbsp;
+<a href="https://www.codechef.com/users/surya_2k4"><img src="https://img.shields.io/badge/-CodeChef-982B1C?style=flat&logo=CodeChef&logoColor=white"/></a> &nbsp;
+<a href="https://www.geeksforgeeks.org/user/suryanataylmp/"><img src="https://img.shields.io/badge/-GeeksForGeeks-387F39?style=flat&logo=GeeksForGeeks&logoColor=green"/></a> &nbsp;
 
 -----  
 
