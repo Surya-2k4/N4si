@@ -18,8 +18,7 @@
 
 🌱  I'm focused on expanding my technical skills and staying updated with industry trends.
 
-🚀  I'm passionate about problem-solving, data structures, and cross-platform app development with Flutter. Cybersecurity also excites me, 
-    &nbsp;and I'm eager to apply and expand my expertise in these areas.
+🚀  I'm passionate about problem-solving, Cybersecurity, and cross-platform app development with Flutter.  
 
 💬  Let's connect for discussions, projects, or networking.
 
